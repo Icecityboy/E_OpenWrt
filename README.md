@@ -138,9 +138,6 @@ Build OpenWrt using GitHub Actions
 ![](https://github.com/garypang13/luci-theme-edge/raw/master/Screenshots/1.png)
 ![](https://github.com/garypang13/luci-theme-edge/raw/master/Screenshots/2.png)
 ![](https://github.com/garypang13/luci-theme-edge/raw/master/Screenshots/3.png)
-![](https://github.com/garypang13/luci-theme-edge/raw/master/Screenshots/8.png)
-![](https://github.com/garypang13/luci-theme-edge/raw/master/Screenshots/4.png)
-![](https://github.com/garypang13/luci-theme-edge/raw/master/Screenshots/5.png)
 <br/>
 <br />
 <img src="https://github.com/garypang13/luci-theme-edge/raw/master/Screenshots/6.png" width="550" />
